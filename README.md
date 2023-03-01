@@ -74,7 +74,7 @@
 
 
 ### ✨App Screenshot
-[![Product Name Screen Shot]("https://www.linkedin.com/in/abhishek-saini-b51520245/)
+[![Product Name Screen Shot]("https://github.com/abhishek00045454/review-scrapper-azure/blob/master/Screenshot_20230215_002327.jpg")
 
 ### ✨ Mongodb Screenshot
 ![Screenshot 2022-04-28 170938]("https://www.linkedin.com/in/abhishek-saini-b51520245/")
