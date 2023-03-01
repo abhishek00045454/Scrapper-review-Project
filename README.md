@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/aravind9722">
+  <a href="https://www.linkedin.com/in/abhishek-saini-b51520245/">
     <img src="https://cdn-icons-png.flaticon.com/512/3408/3408473.png" alt="Logo" width="80" height="80"/> 
   </a>
 
@@ -17,11 +17,11 @@
     <a href="https://github.com/aravind9722/Flask_app_project"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/aravind9722/Flask_app_project/blob/main/app.py">View app code</a>
+    <a href="https://www.linkedin.com/in/abhishek-saini-b51520245/">View app code</a>
     ·
-    <a href="https://github.com/aravind9722/Flask_app_project/blob/main/Scrapper.py"> Scraper module</a>
+    <a href="https://www.linkedin.com/in/abhishek-saini-b51520245/"> Scraper module</a>
     ·
-    <a href="https://webscrapper-project-aravind.herokuapp.com/">Heroku Link</a>
+    <a href="https://www.linkedin.com/in/abhishek-saini-b51520245/"/">Heroku Link</a>
   </p>
 </div>
 
@@ -76,10 +76,10 @@
 https://user-images.githubusercontent.com/97881558/165742945-16155120-5d1d-443b-bf8d-bf4eab149e3f.mp4
 
 ### ✨App Screenshot
-[![Product Name Screen Shot](https://raw.githubusercontent.com/aravind9722/Flask_app_project/main/static/image/App%20screenshot.png)](https://webscrapper-project-aravind.herokuapp.com/)
+[![Product Name Screen Shot]("https://www.linkedin.com/in/abhishek-saini-b51520245/)
 
 ### ✨ Mongodb Screenshot
-![Screenshot 2022-04-28 170938](https://user-images.githubusercontent.com/97881558/165744310-9f53037e-1585-48e5-9ce7-641b2a79ac54.png)
+![Screenshot 2022-04-28 170938]("https://www.linkedin.com/in/abhishek-saini-b51520245/")
 
 
 ### 🧰 **Technologies used**
@@ -98,9 +98,9 @@ https://user-images.githubusercontent.com/97881558/165742945-16155120-5d1d-443b-
 
 <!-- CONTACT -->
 ## 📌 Contact
-[![Abhishek_saini | LinkedIn](https://img.shields.io/badge/Aravind_Selvam-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][https://www.linkedin.com/in/abhishek-saini-b51520245/]
-[![abhishek_saini | G Mail](https://img.shields.io/badge/aravind9722-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][abhisheksaini388@gmail.com]
-[![abhisheksaini | GitHub](https://img.shields.io/badge/aravind-eeeeee?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&labelColor=blue)][reach_outlook]
+[![Abhishek_saini | LinkedIn](https://img.shields.io/badge/Abhishek-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][https://www.linkedin.com/in/abhishek-saini-b51520245/]
+[![abhishek_saini | G Mail](https://img.shields.io/badge/Abhishek-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][abhisheksaini388@gmail.com]
+[![abhisheksaini | GitHub](https://img.shields.io/badge/Abhishek-eeeeee?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&labelColor=blue)][reach_outlook]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,6 +129,5 @@ https://user-images.githubusercontent.com/97881558/165742945-16155120-5d1d-443b-
 [flask]: https://flask.palletsprojects.com/en/2.1.x/
 
 <!--contact-->
-[reach_linkedin]: https://www.linkedin.com/in/aravind-selvam/
-[reach_gmail]: mailto:aravind9722@gmail.com?subject=Github
-[reach_outlook]: mailto:aravind_selvam@outlook.com
+[reach_linkedin]: https://www.linkedin.com/in/abhishek-saini-b51520245/
+[reach_gmail]: abhisheksaini388@gmail.com
