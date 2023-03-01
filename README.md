@@ -71,9 +71,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### 🖥️ Deployed app demo
 
-https://user-images.githubusercontent.com/97881558/165742945-16155120-5d1d-443b-bf8d-bf4eab149e3f.mp4
 
 ### ✨App Screenshot
 [![Product Name Screen Shot]("https://www.linkedin.com/in/abhishek-saini-b51520245/)
